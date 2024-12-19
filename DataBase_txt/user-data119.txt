@@ -1,0 +1,8 @@
+Name: Mouad
+Last Name: Moustafid
+Phone Number: 0725456525
+Email: 1@gmail.com
+CIN: jj458784
+Birthday: 01/10/2001
+Role: Client
+

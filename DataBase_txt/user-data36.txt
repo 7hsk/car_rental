@@ -1,0 +1,16 @@
+Name: Mouad
+Last Name: Moustafid
+Phone Number: 0620181444
+Email: doom@gmail.com
+CIN: jj458784
+Birthday: 01/10/2001
+Role: Client
+
+Name: madona
+Last Name: fati
+Phone Number: 49498494
+Email: fati@gmail.com
+CIN: rf4494
+Birthday: 10/05/1800
+Role: Client
+

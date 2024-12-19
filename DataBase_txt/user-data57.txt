@@ -1,0 +1,32 @@
+Name: kazdar
+Last Name: zakaria
+Phone Number: 0754464845
+Email: calisthez2004@gmail.com
+CIN: BT12303
+Birthday: 23/05/2003
+Role: Client
+
+Name: salma
+Last Name: bnteawicha
+Phone Number: 0715161936
+Email: fatifleur@gmail.com
+CIN: fr8464648
+Birthday: 14/12/1999
+Role: Client
+
+Name: Mouad
+Last Name: Moustafid
+Phone Number: 0725456525
+Email: za3lok@gmail.com
+CIN: jj458784
+Birthday: 01/10/2001
+Role: Client
+
+Name: madona
+Last Name: fati
+Phone Number: 49498494
+Email: fati@gmail.com
+CIN: rf4494
+Birthday: 10/05/1800
+Role: Client
+

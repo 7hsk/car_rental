@@ -1,0 +1,282 @@
+Model: Golf
+Marque: Volkswagen
+Available: 1
+Price per day: 150.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Golf.png
+
+Model: Passat
+Marque: Volkswagen
+Available: 1
+Price per day: 200.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Passat.png
+
+Model: Touareg
+Marque: Volkswagen
+Available: 1
+Price per day: 300.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Touareg.png
+
+Model: Tiguan
+Marque: Volkswagen
+Available: 1
+Price per day: 250.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Tiguan.png
+
+Model: Polo
+Marque: Volkswagen
+Available: 1
+Price per day: 100.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Polo.png
+
+Model: Arteon
+Marque: Volkswagen
+Available: 1
+Price per day: 280.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Arteon.png
+
+Model: M3
+Marque: BMW
+Available: 1
+Price per day: 450.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\M3.png
+
+Model: M5
+Marque: BMW
+Available: 1
+Price per day: 550.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\M5.png
+
+Model: X5
+Marque: BMW
+Available: 1
+Price per day: 500.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\X5.png
+
+Model: i8
+Marque: BMW
+Available: 1
+Price per day: 800.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\i8.png
+
+Model: 320d
+Marque: BMW
+Available: 1
+Price per day: 350.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\320d.png
+
+Model: X3
+Marque: BMW
+Available: 1
+Price per day: 400.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\X3.png
+
+Model: A
+Marque: Mercedes-Benz
+Available: 1
+Price per day: 220.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\A.png
+
+Model: C
+Marque: Mercedes-Benz
+Available: 1
+Price per day: 350.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\C.png
+
+Model: GLC
+Marque: Mercedes-Benz
+Available: 1
+Price per day: 600.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\GLC.png
+
+Model: S
+Marque: Mercedes-Benz
+Available: 1
+Price per day: 1200.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\S.png
+
+Model: E
+Marque: Mercedes-Benz
+Available: 1
+Price per day: 450.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\E.png
+
+Model: AMG GT
+Marque: Mercedes-Benz
+Available: 1
+Price per day: 1500.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\AMG_GT.png
+
+Model: 911 Carrera
+Marque: Porsche
+Available: 1
+Price per day: 1000.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\911_Carrera.png
+
+Model: Cayenne
+Marque: Porsche
+Available: 1
+Price per day: 800.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Cayenne.png
+
+Model: Panamera
+Marque: Porsche
+Available: 1
+Price per day: 1300.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Panamera.png
+
+Model: Macan
+Marque: Porsche
+Available: 1
+Price per day: 700.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Macan.png
+
+Model: Boxster
+Marque: Porsche
+Available: 1
+Price per day: 900.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Boxster.png
+
+Model: Corolla
+Marque: Toyota
+Available: 1
+Price per day: 120.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Corolla.png
+
+Model: Camry
+Marque: Toyota
+Available: 1
+Price per day: 150.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Camry.png
+
+Model: Hilux
+Marque: Toyota
+Available: 1
+Price per day: 300.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Hilux.png
+
+Model: Land Cruiser
+Marque: Toyota
+Available: 1
+Price per day: 500.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Land_Cruiser.png
+
+Model: Yaris
+Marque: Toyota
+Available: 1
+Price per day: 100.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Yaris.png
+
+Model: Prius
+Marque: Toyota
+Available: 1
+Price per day: 200.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Prius.png
+
+Model: Aventador
+Marque: Lamborghini
+Available: 1
+Price per day: 3500.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Aventador.png
+
+Model: Urus
+Marque: Lamborghini
+Available: 1
+Price per day: 3200.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Urus.png
+
+Model: Civic
+Marque: Honda
+Available: 1
+Price per day: 150.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Civic.png
+
+Model: Accord
+Marque: Honda
+Available: 1
+Price per day: 150.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Accord.png
+
+Model: CR-V
+Marque: Honda
+Available: 1
+Price per day: 250.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\CR-V.png
+
+Model: Forester
+Marque: Subaru
+Available: 1
+Price per day: 300.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Forester.png
+
+Model: XV
+Marque: Subaru
+Available: 1
+Price per day: 250.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\XV.png
+
+Model: CX-5
+Marque: Mazda
+Available: 1
+Price per day: 280.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\CX-5.png
+
+Model: MX-5
+Marque: Mazda
+Available: 1
+Price per day: 180.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\MX-5.png
+
+Model: Tucson
+Marque: Hyundai
+Available: 1
+Price per day: 200.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Tucson.png
+
+Model: Santa Fe
+Marque: Hyundai
+Available: 1
+Price per day: 250.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Santa Fe.png
+
+Model: R8
+Marque: Audi
+Available: 1
+Price per day: 1500.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\R8.png
+
+Model: A4
+Marque: Audi
+Available: 1
+Price per day: 250.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\A4.png
+
+Model: Q7
+Marque: Audi
+Available: 1
+Price per day: 600.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Q7.png
+
+Model: Defender
+Marque: Land Rover
+Available: 1
+Price per day: 800.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Defender.png
+
+Model: Range Rover
+Marque: Land Rover
+Available: 1
+Price per day: 1500.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Range Rover.png
+
+Model: Camaro
+Marque: Chevrolet
+Available: 1
+Price per day: 350.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Camaro.png
+
+Model: Corvette
+Marque: Chevrolet
+Available: 1
+Price per day: 1000.00
+Image path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Corvette.png
+

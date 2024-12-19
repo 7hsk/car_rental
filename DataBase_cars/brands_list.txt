@@ -1,0 +1,39 @@
+Brand: Audi
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Audi.png
+---------------------------------
+Brand: BMW
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\BMW.png
+---------------------------------
+Brand: Chevrolet
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Chevrolet.png
+---------------------------------
+Brand: Honda
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Honda.png
+---------------------------------
+Brand: Hyundai
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Hyundai.png
+---------------------------------
+Brand: Lamborghini
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Lamborghini.png
+---------------------------------
+Brand: Land Rover
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Land Rover.png
+---------------------------------
+Brand: Mazda
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Mazda.png
+---------------------------------
+Brand: Mercedes-Benz
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Mercedes-Benz.png
+---------------------------------
+Brand: Porsche
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Porsche.png
+---------------------------------
+Brand: Subaru
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Subaru.png
+---------------------------------
+Brand: Toyota
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Toyota.png
+---------------------------------
+Brand: Volkswagen
+Logo Path: C:\Users\mouad\CLionProjects\car_rental\DataBase_cars\Volkswagen.png
+---------------------------------

@@ -1,0 +1,16 @@
+Name: frfe
+Last Name: reger
+Phone Number: 0652425236
+Email: gt@fr0.gr
+CIN: gr848448
+Birthday: 12/12/2000
+Role: Client
+
+Name: vrgbt
+Last Name: gtegeth
+Phone Number: 0725854578
+Email: vrg@pmp.hj
+CIN: vf848484
+Birthday: 12/12/2000
+Role: Client
+

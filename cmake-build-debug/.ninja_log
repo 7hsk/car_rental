@@ -1,0 +1,12 @@
+# ninja log v6
+7	664	7561611296297182	CMakeFiles/car_rental.dir/signup.c.obj	555e94649ea3efee
+28	227	7560442388405345	CMakeFiles/car_rental.dir/user.c.obj	284bb5f62d9ed7aa
+11	630	7561611296337196	CMakeFiles/car_rental.dir/login.c.obj	5ed8c17e5c2854ae
+8	638	7562451743121089	CMakeFiles/car_rental.dir/main.c.obj	c00956f4e11ade4a
+730	871	7562713709599416	car_rental.exe	b040883a29ad3f87
+8	769	7562711014452596	CMakeFiles/car_rental.dir/utils.c.obj	5904ad224983ba55
+5	674	7562714870385341	build.ninja	8fb1444df51afe9f
+39	758	7559618960797707	CMakeFiles/car_rental.dir/fewrfre.c.obj	df4f1ccefdc6a107
+8	725	7562713702379871	CMakeFiles/car_rental.dir/admin.c.obj	d3efb5e6897a824c
+24	948	7561811358449543	CMakeFiles/car_rental.dir/client.c.obj	cbc71e365f440fad
+30	811	7561811358499938	CMakeFiles/car_rental.dir/car.c.obj	f583847e6fd8346

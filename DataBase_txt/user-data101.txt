@@ -1,0 +1,56 @@
+Name: kazdar
+Last Name: zakaria
+Phone Number: 0754464845
+Email: calisthez2004@gmail.com
+CIN: BT12303
+Birthday: 23/05/2003
+Role: Client
+
+Name: salma
+Last Name: bnteawicha
+Phone Number: 0715161936
+Email: fatifleur@gmail.com
+CIN: fr8464648
+Birthday: 14/12/1999
+Role: Client
+
+Name: amine
+Last Name: lgrdom
+Phone Number: 0545875487
+Email: mama@gmail.com
+CIN: jh878787
+Birthday: 10/20/2001
+Role: Client
+
+Name: Mouad
+Last Name: Moustafid
+Phone Number: 0725456525
+Email: 1@gmail.com
+CIN: jj458784
+Birthday: 01/10/2001
+Role: Client
+
+Name: zombie
+Last Name: trial
+Phone Number: 5252514174858574
+Email: wal9lawi@l7wa.com
+CIN: jk00001
+Birthday: 35/22/1432
+Role: Client
+
+Name: saida
+Last Name: charaf
+Phone Number: 0666666666
+Email: aminelghlid@mail.com
+CIN: ll202125
+Birthday: 12/01/2001
+Role: Client
+
+Name: madona
+Last Name: fati
+Phone Number: 49498494
+Email: fati@gmail.com
+CIN: rf4494
+Birthday: 10/05/1800
+Role: Client
+

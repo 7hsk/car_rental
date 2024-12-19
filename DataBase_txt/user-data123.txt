@@ -1,0 +1,8 @@
+Name: frfe
+Last Name: reger
+Phone Number: 0652425236
+Email: gt@fr0.gr
+CIN: gr848448
+Birthday: 12/12/2000
+Role: Client
+
